@@ -1,7 +1,7 @@
 # ahk-scripts
 
 [AutoHotKey](http://www.autohotkey.com/)
-scripts I have use.
+scripts I have written.
 
 Please note that, these are not full blown applications.
 Some of them are very specific to some applications,
