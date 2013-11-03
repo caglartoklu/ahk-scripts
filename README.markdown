@@ -97,6 +97,23 @@ since McAfee Live Save - Internet Security 12.8 does not place such a
 right click menu to the Recycle Bin.
 
 
+### firefox_save_in_archive.ahk
+
+When executed, it overrides `ctrl-s` (only when Firefox is active)
+by sending `alt-f` key for file menu and press `g` for `Save Page In Archive As`.
+
+Firefox does not have a `Save Page In Archive As` method by default.
+This menu item comes with the
+[Mozilla Archive Format](https://addons.mozilla.org/En-us/firefox/addon/mozilla-archive-format/)
+add-on.
+Since `Save Page In Archive As` menu item does not have a shortcut,
+this little script provides one by overriding `Save Page As`.
+
+Here is a screenshot for the menu structure:
+![Firefox, MAF, Save Page In Archive Menu](https://raw.github.com/caglartoklu/ahk-scripts/media/firefox/firefox_save_in_archive.png)
+
+
+
 ## License
 
 Licensed with 2-clause license ("Simplified BSD License" or "FreeBSD License").
