@@ -48,7 +48,8 @@ Please see the source code of the corresponding script.
 
 ## Script Index
 
-### youtube-dl-helper.ahk
+### [youtube-dl-helper.ahk](https://github.com/caglartoklu/ahk-scripts/tree/master/youtube-dl-helper)
+
 [youtube-dl](http://rg3.github.io/youtube-dl/) is an incredible video downloader
 supporting a ton of online services.
 `youtube-dl-helper.ahk` is a simple script providing less typing when using youtube-dl.
@@ -62,12 +63,14 @@ To use it, copy the video URL to clipboard, switch to `cmd.exe` as you would wit
 The script will perform when the hotstrings are used.
 
 
-### excel2010_untrust_docs.ahk
+### [excel2010_untrust_docs.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/office/excel2010_untrust_docs.ahk)
+
 Automates Microsoft Excel 2010 to clear trusted documents.
 The script will perform at the moment it is executed.
 
 
-### cmdexe.ahk
+### [cmdexe.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/cmdexe/cmdexe.ahk)
+
 Provides:
 
 - `ctrl-shift-v` to paste
@@ -78,7 +81,8 @@ Provides:
 The script will perform when the shortcuts are used.
 
 
-### disable_shift_del.ahk
+### [disable_shift_del.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/windows/disable_shift_del.ahk)
+
 Disables `shift-delete` key on Windows, and switches it with regular `delete` key.
 So, whenever `shift-delete` is used, file will go to Recycle Bin instead.
 Tested with Windows 7 and Windows 8.
@@ -90,14 +94,14 @@ http://stackoverflow.com/a/18074871
 The script will perform when the shortcuts are used.
 
 
-### recyclebin-shredder-using-mcafee.ahk
+### [recyclebin-shredder-using-mcafee.ahk](https://github.com/caglartoklu/ahk-scripts/tree/master/recyclebin-shredder-using-mcafee/recyclebin-shredder-using-mcafee.ahk)
 
 When executed, it shreds Windows Recycle Bin using McAfee's Shredder,
 since McAfee Live Save - Internet Security 12.8 does not place such a
 right click menu to the Recycle Bin.
 
 
-### firefox_save_in_archive.ahk
+### [firefox_save_in_archive.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/firefox/firefox_save_in_archive.ahk)
 
 When executed, it overrides `ctrl-s` (only when Firefox is active)
 by sending `alt-f` key for file menu and press `g` for `Save Page In Archive As`.
@@ -110,6 +114,7 @@ Since `Save Page In Archive As` menu item does not have a shortcut,
 this little script provides one by overriding `Save Page As`.
 
 Here is a screenshot for the menu structure:
+
 ![Firefox, MAF, Save Page In Archive Menu](https://raw.github.com/caglartoklu/ahk-scripts/media/firefox/firefox_save_in_archive.png)
 
 
