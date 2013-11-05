@@ -118,6 +118,17 @@ Here is a screenshot for the menu structure:
 ![Firefox, MAF, Save Page In Archive Menu](https://raw.github.com/caglartoklu/ahk-scripts/media/firefox/firefox_save_in_archive.png)
 
 
+### [ie_save_in_archive.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/internet-explorer/ie_save_in_archive.ahk)
+
+When executed, it overrides `ctrl-s` (only when Internet Explorer is active).
+It makes sure that the web pages are saved as `Web Archive, single file (*.mht)`.
+
+
+### [clean_temp_files_of_ie.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/internet-explorer/clean_temp_files_of_ie.ahk)
+
+This little script opens the *Internet Options* and cleans history by
+pressing *Delete* button.
+
 
 ## License
 
