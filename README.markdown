@@ -129,6 +129,25 @@ It makes sure that the web pages are saved as `Web Archive, single file (*.mht)`
 This little script opens the *Internet Options* and cleans history by
 pressing *Delete* button.
 
+### disable_modifier_keys
+
+A few simple scripts to disable `control`, `alt` and `shift` keys on your keyboard.
+These scripts, especially the left ones, can be used to slow you down when the pinky finger is too much stressed
+under heavy coding.
+
+- [disable_left_alt.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+binary (.exe) : [disable_left_alt.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21109)
+- [disable_left_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+binary (.exe) : [disable_left_ctrl.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21111)
+- [disable_left_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+binary (.exe) : [disable_left_shift.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21110)
+- [disable_right_alt.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+binary (.exe) : [disable_right_alt.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21113)
+- [disable_right_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+binary (.exe) : [disable_right_ctrl.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21112)
+- [disable_right_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+binary (.exe) : [disable_right_shift.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21114)
+
 
 ## License
 
