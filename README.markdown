@@ -137,15 +137,15 @@ under heavy coding.
 
 - [disable_left_alt.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
 binary (.exe) : [disable_left_alt.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21109)
-- [disable_left_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+- [disable_left_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_ctrl.ahk)
 binary (.exe) : [disable_left_ctrl.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21111)
-- [disable_left_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+- [disable_left_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_shift.ahk)
 binary (.exe) : [disable_left_shift.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21110)
-- [disable_right_alt.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+- [disable_right_alt.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_right_ctrl.ahk)
 binary (.exe) : [disable_right_alt.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21113)
-- [disable_right_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+- [disable_right_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_right_alt.ahk)
 binary (.exe) : [disable_right_ctrl.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21112)
-- [disable_right_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
+- [disable_right_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_right_shift.ahk)
 binary (.exe) : [disable_right_shift.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21114)
 
 
