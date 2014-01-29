@@ -149,6 +149,18 @@ binary (.exe) : [disable_right_ctrl.exe](https://skydrive.live.com/download?resi
 binary (.exe) : [disable_right_shift.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21114)
 
 
+### [sleep_after_vlc.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/sleep_after_vlc.ahk)
+
+Shutdowns the computer in 10 seconds after
+[VLC Media Player](http://www.videolan.org/vlc/index.html)
+is closed.
+For this to work, `Quit at the end of playlist` should be selected in VLC media player,
+as in the following screenshot:
+
+![Quit at the end of playlist](https://raw.github.com/caglartoklu/ahk-scripts/media/vlc/quit_at_the_end_of_playlist.jpg)
+
+[also available as a Windows .exe, 794 KB](https://skydrive.live.com/download?resid=863CF467BC7B3106%21115)
+
 ## License
 
 Licensed with 2-clause license ("Simplified BSD License" or "FreeBSD License").
