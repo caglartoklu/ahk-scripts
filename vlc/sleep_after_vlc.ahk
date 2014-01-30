@@ -17,14 +17,27 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; VLC media player
 ; ahk_class QWidget
 
-WinWait, VLC media player
-WinWaitClose  ; Wait for the exact window found by WinWait to be closed.
-; 1: ok/cancel
-MsgBox, 1, , VLC closed - 10 seconds countdown to shutdown, 10
-IfMsgBox, Cancel
-    ; 0: ok
+InputBox, secondsToWait, sleep_after_vlc, Please enter the seconds before shutdown after closing VLC media player, , , , , , ,5, 20
+if ErrorLevel = 1
+{
+    ; Cancel pressed
     Msgbox, 0, , Shutdown aborted, 2
-Else
-    ; 1: shut down
-    ; 8: power down
-    Shutdown, 1
+}
+else
+{
+    WinWait, VLC media player
+    WinWaitClose  ; Wait for the exact window found by WinWait to be closed.
+    ; 1: ok/cancel
+    MsgBox, 1, , VLC closed - countdown to shutdown, %secondsToWait%
+    IfMsgBox, Cancel
+    {
+        ; 0: ok
+        Msgbox, 0, , Shutdown aborted, 2
+    }
+    Else
+    {
+        ; 1: shut down
+        ; 8: power down
+        Shutdown, 1
+    }
+}
