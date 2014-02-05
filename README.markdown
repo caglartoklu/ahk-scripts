@@ -161,6 +161,21 @@ as in the following screenshot:
 
 [also available as a Windows .exe, 794 KB](https://skydrive.live.com/download?resid=863CF467BC7B3106%21115)
 
+### [clip_length.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/strings/clip_length.ahk)
+
+When `ctrl-shift-c` is pressed, shows the length of the clipboard contents in a small dialog box.
+
+[also available as a Windows .exe, 794 KB](https://skydrive.live.com/download?resid=863CF467BC7B3106%21116)
+
+### [selected_length.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/strings/selected_length.ahk)
+
+When `ctrl-shift-s` is pressed, shows the length of the selected content in a small dialog box.
+This will almost work in any text editor or application.
+
+![Selected Length](https://raw.github.com/caglartoklu/ahk-scripts/media/strings/selected_length.png)
+
+[also available as a Windows .exe, 794 KB](https://skydrive.live.com/download?resid=863CF467BC7B3106%21117)
+
 ## License
 
 Licensed with 2-clause license ("Simplified BSD License" or "FreeBSD License").
