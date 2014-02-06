@@ -15,15 +15,16 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; ----------------------------------------------------------------------------
 
 ^+s::  ; ctrl-shift-s
+    ; unlike = operator, := does not trim automatically
     ; Backup the entire clipboard
-    clipboardBackup = %ClipboardAll%
+    clipboardBackup := ClipboardAll
 
     Clipboard =  ; clear clipboard
     SendInput ^c ; ctrl-c copy to clipboard
     ClipWait  ; Wait for the clipboard to contain text.
 
-    contents = %clipboard%
+    contents := clipboard
     StringLen, clipLength, contents
-    Clipboard = %clipboardBackup% ; Restore the original clipboard.
+    Clipboard := clipboardBackup ; Restore the original clipboard.
     MsgBox, %contents% `nlength: %clipLength%
 Return

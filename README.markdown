@@ -172,9 +172,9 @@ When `ctrl-shift-c` is pressed, shows the length of the clipboard contents in a 
 When `ctrl-shift-s` is pressed, shows the length of the selected content in a small dialog box.
 This will almost work in any text editor or application.
 
-![Selected Length](https://raw.github.com/caglartoklu/ahk-scripts/media/strings/selected_length.png)
-
 [also available as a Windows .exe, 794 KB](https://skydrive.live.com/download?resid=863CF467BC7B3106%21117)
+
+![Selected Length](https://raw.github.com/caglartoklu/ahk-scripts/media/strings/selected_length.png)
 
 ## License
 

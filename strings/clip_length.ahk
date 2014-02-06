@@ -16,7 +16,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; ----------------------------------------------------------------------------
 
 ^+c::  ; ctrl-shift-c
-    contents = %clipboard%
+    ; unlike = operator, := does not trim automatically
+    contents := clipboard
     StringLen, clipLength, contents
     MsgBox, %contents% `nlength: %clipLength%
 Return
