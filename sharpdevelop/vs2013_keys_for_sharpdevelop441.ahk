@@ -14,12 +14,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; ----------------------------------------------------------------------------
 
 ; >>>>>>>>>>( Window Title & Class )<<<<<<<<<<<
-; TaxPayerLoader - SharpDevelop
+; ProjectName - SharpDevelop
 ; ahk_class HwndWrapper[SharpDevelop.exe;;6a0ec543-5ff8-45d9-8305-b35c5b52d28d]
 
 SetTitleMatchMode 2
 #IfWinActive, SharpDevelop
-
 
 
 ; BEGIN -------------------- File menu
