@@ -176,6 +176,13 @@ This will almost work in any text editor or application.
 
 ![Selected Length](https://raw.github.com/caglartoklu/ahk-scripts/media/strings/selected_length.png)
 
+### [vs2013_keys_for_sharpdevelop441.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/sharpdevelop/vs2013_keys_for_sharpdevelop441.ahk)
+
+[SharpDevelop](http://www.icsharpcode.net/OpenSource/SD/Default.aspx)
+is a free and open source IDE for .NET framework, supporting, C#, VB.NET, Python, F# and some other languages.
+Most of its shortcuts are similar to Visual Studio, except some.
+This little AutoHotKey script maps common Visual Studio keyboard shortcuts to SharpDevelop.
+
 ## License
 
 Licensed with 2-clause license ("Simplified BSD License" or "FreeBSD License").
