@@ -161,6 +161,25 @@ as in the following screenshot:
 
 [also available as a Windows .exe, 794 KB](https://skydrive.live.com/download?resid=863CF467BC7B3106%21115)
 
+### [vlc_few_seconds_back.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/vlc_few_seconds_back.ahk)
+
+If a VLC window exists, it will activate it, and it will jump back 20 seconds.
+In my configuration, it is bound to the extra left side button of my
+[Microsoft Wireless Mouse 5000](http://www.microsoft.com/hardware/en-us/d/wireless-mouse-5000).
+
+### [vlc_few_seconds_forward.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/vlc_few_seconds_forward.ahk)
+
+If a VLC window exists, it will activate it, and it will jump forward 20 seconds.
+In my configuration, it is bound to the extra right side button of my
+[Microsoft Wireless Mouse 5000](http://www.microsoft.com/hardware/en-us/d/wireless-mouse-5000).
+
+### [vlc_toggle_play.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/vlc_toggle_play.ahk)
+
+If a VLC window exists, it will activate it, and toggle playing, that is, by sending a `space` keypress.
+In my configuration, it is bound to the wheel button click of my
+[Microsoft Wireless Mouse 5000](http://www.microsoft.com/hardware/en-us/d/wireless-mouse-5000).
+
+
 ### [clip_length.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/strings/clip_length.ahk)
 
 When `ctrl-shift-c` is pressed, shows the length of the clipboard contents in a small dialog box.
