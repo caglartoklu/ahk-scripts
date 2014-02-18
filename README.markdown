@@ -93,6 +93,10 @@ http://stackoverflow.com/a/18074871
 
 The script will perform when the shortcuts are used.
 
+### [snipping-tool-new.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/windows/snipping-tool-new.ahk)
+
+Launch the *Snipping Tool* of Windows and automatically activates *New*.
+
 
 ### [recyclebin-shredder-using-mcafee.ahk](https://github.com/caglartoklu/ahk-scripts/tree/master/recyclebin-shredder-using-mcafee/recyclebin-shredder-using-mcafee.ahk)
 
