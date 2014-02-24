@@ -16,13 +16,34 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; >>>>>>>>>>( Window Title & Class )<<<<<<<<<<<
 ; Snipping Tool
 ; ahk_class Microsoft-Windows-Tablet-SnipperToolbar
+; ahk_class Microsoft-Windows-Tablet-SnipperEditor
 
 ; windows + printscreen
 #printscreen::
-    ; "%windir%\system32\SnippingTool.exe"
-    exepath := A_Windir . "\system32\SnippingTool.exe"
-    Run, %exepath%
-    WinWait, ahk_class Microsoft-Windows-Tablet-SnipperToolbar
+    className =
+
+    currentClassName := "Microsoft-Windows-Tablet-SnipperToolbar"
+    If WinExist("ahk_class" . currentClassName)
+    {
+        className = %currentClassName%
+    }
+
+    currentClassName := "Microsoft-Windows-Tablet-SnipperEditor"
+    If WinExist("ahk_class" . currentClassName)
+    {
+        className = %currentClassName%
+    }
+
+    if className =
+    {
+        ; window not found
+
+        ; "%windir%\system32\SnippingTool.exe"
+        exepath := A_Windir . "\system32\SnippingTool.exe"
+        Run, %exepath%
+        WinWait, ahk_class Microsoft-Windows-Tablet-SnipperToolbar
+    }
+
     WinActivate
     Click 63, 63 ; New
 Return
