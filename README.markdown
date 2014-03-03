@@ -177,7 +177,10 @@ as in the following screenshot:
 
 ![Quit at the end of playlist](https://raw.github.com/caglartoklu/ahk-scripts/media/vlc/quit_at_the_end_of_playlist.jpg)
 
-[also available as a Windows .exe, 794 KB](http://ubuntuone.com/49cK0OibiuYaenmOnF6SxI)
+If the the [sleep_after_vlc.ini](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/sleep_after_vlc.ini)
+is provided, it will be read.
+
+[also available as a Windows .exe and its ini file, 368 KB](http://ubuntuone.com/25sHR7jWauZTWzGoxCw94e)
 
 ### [vlc_few_seconds_back.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/vlc_few_seconds_back.ahk)
 
