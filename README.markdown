@@ -154,17 +154,17 @@ These scripts, especially the left ones, can be used to slow you down when the p
 under heavy coding.
 
 - [disable_left_alt.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
-binary (.exe) : [disable_left_alt.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21109)
+binary (.exe) : [disable_left_alt.exe](http://ubuntuone.com/12z44FLJc1Bm9UNld04wyb)
 - [disable_left_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_ctrl.ahk)
-binary (.exe) : [disable_left_ctrl.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21111)
+binary (.exe) : [disable_left_ctrl.exe](http://ubuntuone.com/5T12Tptq0QNgfddyVjpvv6)
 - [disable_left_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_shift.ahk)
-binary (.exe) : [disable_left_shift.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21110)
+binary (.exe) : [disable_left_shift.exe](http://ubuntuone.com/5kW2B95xf4PVAgijfpg0WQ)
 - [disable_right_alt.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_right_ctrl.ahk)
-binary (.exe) : [disable_right_alt.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21113)
+binary (.exe) : [disable_right_alt.exe](http://ubuntuone.com/4Z3wnJV3sSH9sFZhCS7KSE)
 - [disable_right_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_right_alt.ahk)
-binary (.exe) : [disable_right_ctrl.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21112)
+binary (.exe) : [disable_right_ctrl.exe](http://ubuntuone.com/7Bph9PHsKaHGnWP9XUU8f9)
 - [disable_right_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_right_shift.ahk)
-binary (.exe) : [disable_right_shift.exe](https://skydrive.live.com/download?resid=863CF467BC7B3106%21114)
+binary (.exe) : [disable_right_shift.exe](http://ubuntuone.com/0WQyGvBL0dVRwB3L43E8Qr)
 
 
 ### [sleep_after_vlc.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/sleep_after_vlc.ahk)
@@ -177,7 +177,7 @@ as in the following screenshot:
 
 ![Quit at the end of playlist](https://raw.github.com/caglartoklu/ahk-scripts/media/vlc/quit_at_the_end_of_playlist.jpg)
 
-[also available as a Windows .exe, 794 KB](https://skydrive.live.com/download?resid=863CF467BC7B3106%21115)
+[also available as a Windows .exe, 794 KB](http://ubuntuone.com/49cK0OibiuYaenmOnF6SxI)
 
 ### [vlc_few_seconds_back.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/vlc_few_seconds_back.ahk)
 
@@ -202,14 +202,14 @@ In my configuration, it is bound to the wheel button click of my
 
 When `ctrl-shift-c` is pressed, shows the length of the clipboard contents in a small dialog box.
 
-[also available as a Windows .exe, 794 KB](https://skydrive.live.com/download?resid=863CF467BC7B3106%21116)
+[also available as a Windows .exe, 794 KB](http://ubuntuone.com/7d0XiApJ9P58ZwdLRwlaI2)
 
 ### [selected_length.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/strings/selected_length.ahk)
 
 When `ctrl-shift-s` is pressed, shows the length of the selected content in a small dialog box.
 This will almost work in any text editor or application.
 
-[also available as a Windows .exe, 794 KB](https://skydrive.live.com/download?resid=863CF467BC7B3106%21117)
+[also available as a Windows .exe, 794 KB](http://ubuntuone.com/2GPxJ1xBfxby2hOcRYAmsK)
 
 ![Selected Length](https://raw.github.com/caglartoklu/ahk-scripts/media/strings/selected_length.png)
 
