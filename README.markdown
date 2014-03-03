@@ -36,6 +36,15 @@ Better to check the source code for the exact results.
 Tested with AutoHotkey 1.1.13.01.
 
 
+## Security
+
+Some antivirus software will report the Windows binaries for these scripts as malicious software,
+such as [this one](http://www.autohotkey.com/board/topic/61342-comodo-reports-autohotkeynet-as-malware/).
+It is a false positive, they are not.
+If you are suspicious, simply download the source code in `.ahk` format,
+then compile them yourself, or simply use them in their source code form.
+
+
 ## Usage
 
 Simply run the corresponding script.
@@ -96,6 +105,11 @@ The script will perform when the shortcuts are used.
 ### [snipping-tool-new.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/windows/snipping-tool-new.ahk)
 
 Launch the *Snipping Tool* of Windows and automatically activates *New*.
+
+### [copy_path.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/windows/copy_path.ahk)
+It is a simple script that will copy the files dropped to its icon to clipboard.
+
+[also available as a Windows .exe, 794 KB](http://ubuntuone.com/0pkGFIEw0GRfbBsZVsmnbo)
 
 
 ### [recyclebin-shredder-using-mcafee.ahk](https://github.com/caglartoklu/ahk-scripts/tree/master/recyclebin-shredder-using-mcafee/recyclebin-shredder-using-mcafee.ahk)
@@ -205,6 +219,7 @@ This will almost work in any text editor or application.
 is a free and open source IDE for .NET framework, supporting, C#, VB.NET, Python, F# and some other languages.
 Most of its shortcuts are similar to Visual Studio, except some.
 This little AutoHotKey script maps common Visual Studio keyboard shortcuts to SharpDevelop.
+
 
 ## License
 
