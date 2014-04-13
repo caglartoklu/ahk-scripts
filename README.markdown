@@ -216,6 +216,17 @@ This will almost work in any text editor or application.
 
 ![Selected Length](https://raw.github.com/caglartoklu/ahk-scripts/media/strings/selected_length.png)
 
+### [selected_lower.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/strings/selected_lower.ahk)
+
+When `ctrl-shift-l` is pressed, lower case the selected text.
+This will almost work in any text editor or application.
+
+### [selected_upper.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/strings/selected_upper.ahk)
+
+When `ctrl-shift-u` is pressed, UPPER case the selected text.
+This will almost work in any text editor or application.
+
+
 ### [vs2013_keys_for_sharpdevelop441.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/sharpdevelop/vs2013_keys_for_sharpdevelop441.ahk)
 
 [SharpDevelop](http://www.icsharpcode.net/OpenSource/SD/Default.aspx)
