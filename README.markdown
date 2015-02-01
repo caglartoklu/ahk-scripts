@@ -255,7 +255,7 @@ This will almost work in any text editor or application.
 
 [Download text_paste.exe](http://caglar.toklu.co/d/text_paste.exe)
 
-Pastes the contens of the clipboard without pictures and formatting (ctrl-shift-p).
+Pastes the contents of the clipboard without pictures and formatting (ctrl-shift-p).
 
 ### [vs2013_keys_for_sharpdevelop441.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/sharpdevelop/vs2013_keys_for_sharpdevelop441.ahk)
 
