@@ -25,30 +25,39 @@ PasteInDos()
     SendInput p
 }
 
+
+BuildLink(command)
+{
+    videoLink := Clipboard
+    command := command . """" . videoLink . """"
+    Clipboard := command
+    ClipWait
+    PasteInDos()
+    Sleep 1000
+    Clipboard := videoLink
+}
+
+
 #IfWinActive ahk_class ConsoleWindowClass
 
 ::yff::
-    SendInput youtube-dl -F -- ""
-    SendInput {Left}
-    PasteInDos()
+    command := "youtube-dl -F -- "
+    BuildLink(command)
 Return
 
 ::y22::
-    SendInput youtube-dl -t --write-description -f 22 -- ""
-    SendInput {Left}
-    PasteInDos()
+    command := "youtube-dl -t --write-description -f 22 -- "
+    BuildLink(command)
 Return
 
 ::y44::
-    SendInput youtube-dl -t --write-description -f 44 -- ""
-    SendInput {Left}
-    PasteInDos()
+    command := "youtube-dl -t --write-description -f 44 -- "
+    BuildLink(command)
 Return
 
 ::y18::
-    SendInput youtube-dl -t --write-description -f 18 -- ""
-    SendInput {Left}
-    PasteInDos()
+    command := "youtube-dl -t --write-description -f 18 -- "
+    BuildLink(command)
 Return
 
 
@@ -56,27 +65,23 @@ Return
 #IfWinActive ahk_class Console_2_Main
 
 ::yff::
-    SendInput youtube-dl -F -- ""
-    SendInput {Left}
-    PasteInDos()
+    command := "youtube-dl -F -- "
+    BuildLink(command)
 Return
 
 ::y22::
-    SendInput youtube-dl -t --write-description -f 22 -- ""
-    SendInput {Left}
-    PasteInDos()
+    command := "youtube-dl -t --write-description -f 22 -- "
+    BuildLink(command)
 Return
 
 ::y44::
-    SendInput youtube-dl -t --write-description -f 44 -- ""
-    SendInput {Left}
-    PasteInDos()
+    command := "youtube-dl -t --write-description -f 44 -- "
+    BuildLink(command)
 Return
 
 ::y18::
-    SendInput youtube-dl -t --write-description -f 18 -- ""
-    SendInput {Left}
-    PasteInDos()
+    command := "youtube-dl -t --write-description -f 18 -- "
+    BuildLink(command)
 Return
 
 #IfWinActive
