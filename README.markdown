@@ -86,7 +86,6 @@ The script will perform at the moment it is executed.
 
 Provides:
 
-- `ctrl-shift-v` to paste
 - `ctrl-v` to paste
 - `ctrl-a` to select all
 - `ctrl-f` to open find dialog
@@ -255,7 +254,7 @@ This will almost work in any text editor or application.
 
 [Download text_paste.exe](http://caglar.toklu.co/d/text_paste.exe)
 
-Pastes the contents of the clipboard without pictures and formatting (ctrl-shift-p).
+Pastes the contents of the clipboard without pictures and formatting (`ctrl-shift-v`).
 
 ### [vs2013_keys_for_sharpdevelop441.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/sharpdevelop/vs2013_keys_for_sharpdevelop441.ahk)
 

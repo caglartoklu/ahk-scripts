@@ -52,11 +52,6 @@ FindInCmdexe()
 
 #IfWinActive ahk_class ConsoleWindowClass
 
-; ctrl-shift-v
-^+v::
-    PasteInCmdexe()
-Return
-
 ; ctrl-v
 ^v::
     PasteInCmdexe()

@@ -14,7 +14,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; See the LICENSE file at home page.
 ; ----------------------------------------------------------------------------
 
-^+p::  ; ctrl-shift-p
+^+v::  ; ctrl-shift-v
     ; Backup the entire clipboard
     clipboardBackup := ClipboardAll
 
