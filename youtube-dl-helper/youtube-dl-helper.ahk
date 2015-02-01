@@ -51,4 +51,32 @@ Return
     PasteInDos()
 Return
 
+
+
+#IfWinActive ahk_class Console_2_Main
+
+::yff::
+    SendInput youtube-dl -F -- ""
+    SendInput {Left}
+    PasteInDos()
+Return
+
+::y22::
+    SendInput youtube-dl -t --write-description -f 22 -- ""
+    SendInput {Left}
+    PasteInDos()
+Return
+
+::y44::
+    SendInput youtube-dl -t --write-description -f 44 -- ""
+    SendInput {Left}
+    PasteInDos()
+Return
+
+::y18::
+    SendInput youtube-dl -t --write-description -f 18 -- ""
+    SendInput {Left}
+    PasteInDos()
+Return
+
 #IfWinActive
