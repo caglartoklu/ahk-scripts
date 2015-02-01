@@ -59,6 +59,8 @@ Please see the source code of the corresponding script.
 
 ### [youtube-dl-helper.ahk](https://github.com/caglartoklu/ahk-scripts/tree/master/youtube-dl-helper)
 
+[Download youtube-dl-helper.exe](http://caglar.toklu.co/d/youtube-dl-helper.exe)
+
 [youtube-dl](http://rg3.github.io/youtube-dl/) is an incredible video downloader
 supporting a ton of online services.
 `youtube-dl-helper.ahk` is a simple script providing less typing when using youtube-dl.
@@ -80,6 +82,8 @@ The script will perform at the moment it is executed.
 
 ### [cmdexe.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/cmdexe/cmdexe.ahk)
 
+[Download cmdexe.exe](http://caglar.toklu.co/d/cmdexe.exe)
+
 Provides:
 
 - `ctrl-shift-v` to paste
@@ -92,6 +96,8 @@ The script will perform when the shortcuts are used.
 
 ### [disable_shift_del.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/windows/disable_shift_del.ahk)
 
+[Download disable_shift_del.exe](http://caglar.toklu.co/d/disable_shift_del.exe)
+
 Disables `shift-delete` key on Windows, and switches it with regular `delete` key.
 So, whenever `shift-delete` is used, file will go to Recycle Bin instead.
 Tested with Windows 7 and Windows 8.
@@ -102,14 +108,18 @@ http://stackoverflow.com/a/18074871
 
 The script will perform when the shortcuts are used.
 
+
 ### [snipping-tool-new.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/windows/snipping-tool-new.ahk)
+
+[Download snipping-tool-new.exe](http://caglar.toklu.co/d/snipping-tool-new.exe)
 
 Launch the *Snipping Tool* of Windows and automatically activates *New*.
 
 ### [copy_path.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/windows/copy_path.ahk)
-It is a simple script that will copy the files dropped to its icon to clipboard.
 
-[also available as a Windows .exe, 794 KB](http://ubuntuone.com/0pkGFIEw0GRfbBsZVsmnbo)
+[Download copy_path.exe](http://caglar.toklu.co/d/copy_path.exe)
+
+It is a simple script that will copy the files dropped to its icon to clipboard.
 
 
 ### [recyclebin-shredder-using-mcafee.ahk](https://github.com/caglartoklu/ahk-scripts/tree/master/recyclebin-shredder-using-mcafee/recyclebin-shredder-using-mcafee.ahk)
@@ -120,6 +130,8 @@ right click menu to the Recycle Bin.
 
 
 ### [firefox_save_in_archive.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/firefox/firefox_save_in_archive.ahk)
+
+[Download firefox_save_in_archive.exe](http://caglar.toklu.co/d/firefox_save_in_archive.exe)
 
 When executed, it overrides `ctrl-s` (only when Firefox is active)
 by sending `alt-f` key for file menu and press `g` for `Save Page In Archive As`.
@@ -138,6 +150,8 @@ Here is a screenshot for the menu structure:
 
 ### [ie_save_in_archive.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/internet-explorer/ie_save_in_archive.ahk)
 
+[Download ie_save_in_archive.exe](http://caglar.toklu.co/d/ie_save_in_archive.exe)
+
 When executed, it overrides `ctrl-s` (only when Internet Explorer is active).
 It makes sure that the web pages are saved as `Web Archive, single file (*.mht)`.
 
@@ -154,20 +168,23 @@ These scripts, especially the left ones, can be used to slow you down when the p
 under heavy coding.
 
 - [disable_left_alt.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_alt.ahk)
-binary (.exe) : [disable_left_alt.exe](http://ubuntuone.com/12z44FLJc1Bm9UNld04wyb)
+Download [disable_left_alt.exe](http://caglar.toklu.co/d/disable_left_alt.exe)
 - [disable_left_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_ctrl.ahk)
-binary (.exe) : [disable_left_ctrl.exe](http://ubuntuone.com/5T12Tptq0QNgfddyVjpvv6)
+Download [disable_left_ctrl.exe](http://caglar.toklu.co/d/disable_left_ctrl.exe)
 - [disable_left_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_left_shift.ahk)
-binary (.exe) : [disable_left_shift.exe](http://ubuntuone.com/5kW2B95xf4PVAgijfpg0WQ)
+Download [disable_left_shift.exe](http://caglar.toklu.co/d/disable_left_shift.exe)
 - [disable_right_alt.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_right_alt.ahk)
-binary (.exe) : [disable_right_alt.exe](http://ubuntuone.com/4Z3wnJV3sSH9sFZhCS7KSE)
+Download [disable_right_alt.exe](http://caglar.toklu.co/d/disable_right_alt.exe)
 - [disable_right_ctrl.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_right_ctrl.ahk)
-binary (.exe) : [disable_right_ctrl.exe](http://ubuntuone.com/7Bph9PHsKaHGnWP9XUU8f9)
+Download [disable_right_ctrl.exe](http://caglar.toklu.co/d/disable_right_ctrl.exe)
 - [disable_right_shift.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/disable_modifier_keys/disable_right_shift.ahk)
-binary (.exe) : [disable_right_shift.exe](http://ubuntuone.com/0WQyGvBL0dVRwB3L43E8Qr)
+Download [disable_right_shift.exe](http://caglar.toklu.co/d/disable_right_shift.exe)
+
 
 
 ### [sleep_after_vlc.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/sleep_after_vlc.ahk)
+
+[Download sleep_after_vlc.exe](http://caglar.toklu.co/d/sleep_after_vlc.exe)
 
 Shutdowns the computer in 10 seconds after
 [VLC Media Player](http://www.videolan.org/vlc/index.html)
@@ -178,11 +195,11 @@ as in the following screenshot:
 ![Quit at the end of playlist](https://raw.github.com/caglartoklu/ahk-scripts/media/vlc/quit_at_the_end_of_playlist.jpg)
 
 If the the [sleep_after_vlc.ini](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/sleep_after_vlc.ini)
-is provided, it will be read.
-
-[also available as a Windows .exe and its ini file, 368 KB](http://ubuntuone.com/25sHR7jWauZTWzGoxCw94e)
+is provided, it will be automatically read by sleep_after_vlc.
 
 ### [vlc_few_seconds_back.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/vlc_few_seconds_back.ahk)
+
+[Download vlc_few_seconds_back.exe](http://caglar.toklu.co/d/vlc_few_seconds_back.exe)
 
 If a VLC window exists, it will activate it, and it will jump back 20 seconds.
 In my configuration, it is bound to the extra left side button of my
@@ -190,11 +207,15 @@ In my configuration, it is bound to the extra left side button of my
 
 ### [vlc_few_seconds_forward.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/vlc_few_seconds_forward.ahk)
 
+[Download vlc_few_seconds_forward.exe](http://caglar.toklu.co/d/vlc_few_seconds_forward.exe)
+
 If a VLC window exists, it will activate it, and it will jump forward 20 seconds.
 In my configuration, it is bound to the extra right side button of my
 [Microsoft Wireless Mouse 5000](http://www.microsoft.com/hardware/en-us/d/wireless-mouse-5000).
 
 ### [vlc_toggle_play.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/vlc/vlc_toggle_play.ahk)
+
+[Download vlc_toggle_play.exe](http://caglar.toklu.co/d/vlc_toggle_play.exe)
 
 If a VLC window exists, it will activate it, and toggle playing, that is, by sending a `space` keypress.
 In my configuration, it is bound to the wheel button click of my
@@ -203,25 +224,29 @@ In my configuration, it is bound to the wheel button click of my
 
 ### [clip_length.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/text/clip_length.ahk)
 
-When `ctrl-shift-c` is pressed, shows the length of the clipboard contents in a small dialog box.
+[Download clip_length.exe](http://caglar.toklu.co/d/clip_length.exe)
 
-[also available as a Windows .exe, 794 KB](http://ubuntuone.com/7d0XiApJ9P58ZwdLRwlaI2)
+When `ctrl-shift-c` is pressed, shows the length of the clipboard contents in a small dialog box.
 
 ### [selected_length.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/text/selected_length.ahk)
 
+[Download selected_length.exe](http://caglar.toklu.co/d/selected_length.exe)
+
 When `ctrl-shift-s` is pressed, shows the length of the selected content in a small dialog box.
 This will almost work in any text editor or application.
-
-[also available as a Windows .exe, 794 KB](http://ubuntuone.com/2GPxJ1xBfxby2hOcRYAmsK)
 
 ![Selected Length](https://raw.github.com/caglartoklu/ahk-scripts/media/text/selected_length.png)
 
 ### [selected_lower.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/text/selected_lower.ahk)
 
+[Download selected_lower.exe](http://caglar.toklu.co/d/selected_lower.exe)
+
 When `ctrl-shift-l` is pressed, lower case the selected text.
 This will almost work in any text editor or application.
 
 ### [selected_upper.ahk](https://github.com/caglartoklu/ahk-scripts/blob/master/text/selected_upper.ahk)
+
+[Download selected_upper.exe](http://caglar.toklu.co/d/selected_upper.exe)
 
 When `ctrl-shift-u` is pressed, UPPER case the selected text.
 This will almost work in any text editor or application.
