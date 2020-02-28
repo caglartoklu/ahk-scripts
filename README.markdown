@@ -277,10 +277,3 @@ file.
 The company, product and service names used in this web site are for identification purposes only.
 All trademarks and registered trademarks are the property of their respective owners.
 
-
-## Contact Info
-
-You can find me on
-[Google+](https://plus.google.com/108566243864924912767/posts)
-
-Feel free to send bug reports, or ask questions.
